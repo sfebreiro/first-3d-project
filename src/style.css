@@ -1,0 +1,20 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    background-image: linear-gradient(to left bottom, #3ff00d, #7ff308, #a9f518, #ccf72c, #eaf940);
+}
+
+html,
+body
+{
+    overflow: hidden;
+}
+
+.webgl
+{
+    position: fixed;
+    top: 0;
+    left: 0;
+    outline: none;
+}
